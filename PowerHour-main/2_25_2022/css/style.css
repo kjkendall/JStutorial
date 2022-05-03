@@ -1,0 +1,38 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+.blue, #nikki {
+ width: 25%;
+ height: 300px;
+ background: blue;
+ border: 1px solid black;
+ float: left;
+}
+
+.lavendar{
+  background: lavender;
+  border:1px solid lightcoral;
+  float: left;
+  height: 300px;
+  width: 50%;
+}
+
+.display{
+  display: none;
+}
+
